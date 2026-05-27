@@ -9,11 +9,11 @@ Sem anúncios, código aberto.
 
 Uso: Crie uma pasta no seu pc. 
 **yt-dlp**
-No cmd, digite ```cd sua-pasta```. Rode ```winget install yt-dlp```. Espere instalar.
+No cmd, digite ```cd sua-pasta```. Rode ```winget install yt-dlp``` dentro da pasta. Espere instalar.
 
-depois do yt-dlp:
+depois de instalar o yt-dlp:
 **ffmpeg**
-Rode ```winget install yt-dlp```. Espere instalar.
+Rode ```winget install yt-dlp``` dentro da sua pasta. Espere instalar.
 
 **npm**
 No cmd, digite ```cd sua-pasta```. Rode ```npm install``` pra criar a node_modules. Quando terminar, inicie com ```node server.js```. Vai gerar um link de navegador, copie ele e entre.
