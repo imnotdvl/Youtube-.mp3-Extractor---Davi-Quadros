@@ -7,7 +7,7 @@ Motores: Utiliza yt-dlp e FFmpeg para download e conversão.
 
 Sem anúncios, código aberto.
 
-Uso: Cria uma pasta no seu pc. 
+Uso: Crie uma pasta no seu pc. 
 **yt-dlp**
 No cmd, digite ```cd sua-pasta```. Rode ```winget install yt-dlp```. Espere instalar.
 
