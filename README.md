@@ -1,10 +1,19 @@
-Resumo: Youtube Extractor (Davi Quadros) 🚀
-Ferramenta open-source para extração de áudio .mp3 de vídeos do YouTube, focada em segurança e privacidade. Ao contrário de conversores online, o processamento é feito localmente na máquina do usuário.
+*Deixe o github traduzido como inglês*
 
-Tecnologias: Node.js (Express), JavaScript Vanilla, HTML5 e CSS3.
+Converta links do youtube em .mp3, direto da sua casa.
 
-Motores: Utiliza yt-dlp e FFmpeg para download e conversão de alta qualidade.
+O que usei: Node.js (Express), JavaScript Vanilla, HTML5 e CSS3.
+Motores: Utiliza yt-dlp e FFmpeg para download e conversão.
 
-Vantagens: Sem anúncios, sem rastreadores e código 100% transparente.
+Sem anúncios, código aberto.
 
-Uso: Basta rodar npm install, iniciar o servidor com node server.js e acessar via navegador no localhost:3001.
+Uso: Cria uma pasta no seu pc. 
+**yt-dlp**
+No cmd, digite ```cd sua-pasta```. Rode ```winget install yt-dlp```. Espere instalar.
+
+depois do yt-dlp:
+**ffmpeg**
+Rode ```winget install yt-dlp```. Espere instalar.
+
+**npm**
+No cmd, digite ```cd sua-pasta```. Rode ```npm install``` pra criar a node_modules. Quando terminar, inicie com ```node server.js```. Vai gerar um link de navegador, copie ele e entre.
