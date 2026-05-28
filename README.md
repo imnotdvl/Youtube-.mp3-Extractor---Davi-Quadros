@@ -1,6 +1,6 @@
 *Deixe o github traduzido como inglês*
 
-Converta links do youtube em .mp3, direto da sua casa.
+Converta links do youtube em .mp3, sem enrolação.
 
 O que usei: Node.js (Express), JavaScript Vanilla, HTML5 e CSS3.
 Motores: Utiliza yt-dlp e FFmpeg para download e conversão.
