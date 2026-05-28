@@ -17,4 +17,4 @@ Rode ```winget install ffmpeg``` dentro da sua pasta. Espere instalar.
 **npm**
 No cmd, digite ```cd sua-pasta```. Rode ```npm install``` pra criar a node_modules. Quando terminar, inicie com ```node server.js```.
 
-depois de rodar "node server.js", entre no ```index.html```, e cole os links dos videos lá.
+Depois de rodar "node server.js", entre no ```index.html```, e cole os links dos videos lá.
