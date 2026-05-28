@@ -12,7 +12,7 @@ No cmd, digite ```cd sua-pasta```. Rode ```winget install yt-dlp``` dentro da pa
 
 depois de instalar o yt-dlp:
 **ffmpeg**
-Rode ```winget install yt-dlp``` dentro da sua pasta. Espere instalar.
+Rode ```winget install ffmpeg``` dentro da sua pasta. Espere instalar.
 
 **npm**
 No cmd, digite ```cd sua-pasta```. Rode ```npm install``` pra criar a node_modules. Quando terminar, inicie com ```node server.js```. Vai gerar um link de navegador, copie ele e entre.
