@@ -15,8 +15,6 @@ depois de instalar o yt-dlp:
 Rode ```winget install ffmpeg``` dentro da sua pasta. Espere instalar.
 
 **npm**
-No cmd, digite ```cd sua-pasta```. Rode ```npm install``` pra criar a node_modules. Quando terminar, inicie com ```node server.js```. Vai gerar um link de navegador, copie ele e entre.
-
-Usando o conversor .mp3
+No cmd, digite ```cd sua-pasta```. Rode ```npm install``` pra criar a node_modules. Quando terminar, inicie com ```node server.js```.
 
 depois de rodar "node server.js", entre no ```index.html```, e cole os links dos videos lá.
